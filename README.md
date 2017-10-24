@@ -2,7 +2,7 @@
 A simple algorithm to compress images by using k-means clustering to decrease the number of different colours in the images.
 
 
-T## To run,
+## To run,
   $ julia main.jl <image file name> <k>
 
 where k is the number of clusters to use in the k-means algorithm, and results in an image with 2^k distinct colours.
