@@ -9,8 +9,8 @@ where k is the number of clusters to use in the k-means algorithm, and results i
 
 
 
+Disclaimer: 
 
-
-imageKmeans.jl adapted from k-means algorithm provided in assignment.
-clustering2Dplot.jl provided from assignment.
+imageKmeans.jl is adapted from k-means algorithm provided in assignment.
+clustering2Dplot.jl is provided from assignment.
 
